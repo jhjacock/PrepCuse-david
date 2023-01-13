@@ -1,1 +1,1 @@
-# PrepCuse-david
+este repocitorio es la prueba de como crear un repocitorio online y clonarlo a mi escritorio local
